@@ -7,9 +7,7 @@ This program is a basic tic tac toe game that operates using the console and pro
 
 This program was created to gain experience with c++ by using a number of different language features. Furthermore it was created to demonstrate the use of several different language features by using them to create a simple functioning game.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=jzQsVP1TPro)
 
 # Development Environment
 
@@ -28,4 +26,4 @@ The program was developed in c++ and includes the libraries "fstream" for file m
 
 # Future Work
 
-- Add a computer player option
+- none
